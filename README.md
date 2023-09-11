@@ -1,8 +1,22 @@
+## From KyouKiSu
+
+Added Zksync support. Zksync API's do not work properly. Can't post requests with:
+
+`/ordersPostBatch`
+
+Filters do not work properly for:
+
+`/ordersList`
+
+I got some solutions for buying and selling NFT's on Element (pain). If needed - contact me.
+
+
 <p align="center">
   <img src="https://www.element.market/build/logo-header-268a92cd.svg" height="60"/>
 </p>
 
 # Element.js <!-- omit in toc -->
+
 
 ![https://badges.frapsoft.com/os/mit/mit.svg?v=102](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
 

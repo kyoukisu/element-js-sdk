@@ -52,6 +52,18 @@ export const CONTRACTS_ADDRESSES = {
         ElementExSwapV2: '0x786596CFaA0020EC7fFdE499049E3b9981E99f4A',
         Helper: '0x1f66918D87aab33158DBA4b5Dfe73f2245cfDc20',
         WToken: '0xd00ae08403B9bbb9124bB305C09058E32C39A48c'
+    },
+    324: {
+        ElementEx: '0x64848EEfbC2921102A153b08fa64536AE1f8e937',
+        ElementExSwapV2: '0x7868A55B638eD298370c16F83fA32b26664726ab',
+        Helper: '0x64848EEfbC2921102A153b08fa64536AE1f8e937', // todo to fix
+        WToken: '0x64848EEfbC2921102A153b08fa64536AE1f8e937' // todo to fix
+    },
+    280: { // todo to fix full
+        ElementEx: '0x64848EEfbC2921102A153b08fa64536AE1f8e937',
+        ElementExSwapV2: '0x7868A55B638eD298370c16F83fA32b26664726ab',
+        Helper: '0x64848EEfbC2921102A153b08fa64536AE1f8e937',
+        WToken: '0x64848EEfbC2921102A153b08fa64536AE1f8e937'
     }
 }
 
@@ -63,5 +75,7 @@ export const RPC_URLS = {
     137: 'https://polygon-rpc.com',
     80001: 'https://matic-mumbai.chainstacklabs.com',
     43114: 'https://api.avax.network/ext/bc/C/rpc',
-    43113: 'https://api.avax-test.network/ext/bc/C/rpc'
+    43113: 'https://api.avax-test.network/ext/bc/C/rpc',
+    324: 'https://mainnet.era.zksync.io',
+    280: 'https://testnet.era.zksync.dev'
 }
