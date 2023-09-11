@@ -1,5 +1,5 @@
 {
-  "name": "element-js-sdk",
+  "name": "element-js-sdk-fix",
   "version": "2.1.5",
   "description": "Javascript SDK for the www.element.market",
   "main": "lib/index.js",
