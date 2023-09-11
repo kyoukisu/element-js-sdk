@@ -1,13 +1,13 @@
 {
   "name": "element-js-sdk-fix",
-  "version": "2.1.5",
+  "version": "2.1.8",
   "description": "Javascript SDK for the www.element.market",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
   "author": "element.market",
   "license": "MIT",
   "scripts": {
-    "publish": "npm publish",
+    "publish": "npm publish --access public",
     "dev:tsc": "tsc -w -p tsconfig.json"
   },
   "dependencies": {
