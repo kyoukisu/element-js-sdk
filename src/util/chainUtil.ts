@@ -35,7 +35,7 @@ export function getChainId(chain: any, isTestnet = false): number {
             case Network.Avalanche:
                 return !isTestnet ? 43114 : 43113
             
-            case Network.Avalanche:
+            case Network.Zksync:
                 return !isTestnet ? 324 : 280
         }
     }
