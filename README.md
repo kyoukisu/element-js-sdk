@@ -2,6 +2,11 @@
 
 For some reasons dev's don't publish v3 sdk version that site is currently using. 
 
+You can find it here: https://www.npmjs.com/package/element-sdk
+
+
+Also I've got some solutions for buying and selling NFT's on Element (pain). If needed - contact me.
+
 ### Changes
 
 Added Zksync support.
@@ -15,8 +20,6 @@ Zksync API's do not work properly. Can't post requests with:
 Filters do not work properly for:
 
 `/ordersList`
-
-I got some solutions for buying and selling NFT's on Element (pain). If needed - contact me.
 
 <p align="center">
   <img src="https://www.element.market/build/logo-header-268a92cd.svg" height="60"/>
